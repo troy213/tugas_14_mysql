@@ -60,4 +60,5 @@ INSERT INTO nilai_mahasiswa VALUES
 ```
 
 **Output:**
+
 ![Tugas 14.1](https://github.com/troy213/tugas_14_mysql/blob/main/Tugas%2014.1%20MySQL.jpg)
