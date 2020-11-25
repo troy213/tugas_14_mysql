@@ -29,5 +29,6 @@ INSERT INTO nilai_mahasiswa VALUES ('17140143', 'Rudi Permana', 2.56, 3.14, 3.22
 ```
 
 Maka hasilnya adalah sebagai berikut:
+![Tugas 14](https://github.com/troy213/tugas_14_mysql/blob/main/Tugas%2014%20MySQL.jpg)
 
-Sebagai tips, di dalamnya perlu menggunakan beberapa fungsi bawaan MySQL, seperti UPPER(), CONCAT() dan ROUND().
+Sebagai tips, di dalamnya perlu menggunakan beberapa fungsi bawaan MySQL, seperti **UPPER()**, **CONCAT()** dan **ROUND()**.
